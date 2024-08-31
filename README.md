@@ -31,5 +31,5 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone =https://github.com/shauryadhaka0027/ImageEditot
+
