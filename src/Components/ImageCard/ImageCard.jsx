@@ -6,7 +6,7 @@ export const ImageCard = ({ data }) => {
     const navigate=useNavigate()
     const {setImageData}=useZustand()
   const onAddCaption = () => {
-    // Functionality to add a caption
+   
     navigate("/downloadImage")
     setImageData(data)
   };
